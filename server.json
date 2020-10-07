@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "image": "https://s2.glbimg.com/Cj_bcRMccOUWFJoLH_gPKkU5rOE=/0x0:320x213/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/14/38/47/564/pesto.jpg",
+      "name": "Penne ao Pesto",
+      "price": "20,90",
+      "description": "Penne ao molho pesto de manjericão orgânico.",
+      "available": true
+    },
+    {
+      "name": "Ao Camarão",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKqObULS4Oj5bUUHoF1YXOjpRjc1AFoPghEA&usqp=CAU",
+      "price": "25,90",
+      "description": "Espaguete ao molho vermelho com camarões gigantes da Malásia.",
+      "available": true,
+      "id": 5
     }
   ]
 }
