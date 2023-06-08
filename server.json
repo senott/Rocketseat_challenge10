@@ -39,6 +39,14 @@
       "description": "Espaguete ao molho vermelho com camarões gigantes da Malásia.",
       "available": true,
       "id": 5
+    },
+    {
+      "name": "Tailandês",
+      "image": "https://img2.gratispng.com/20180729/rpz/kisspng-pad-thai-chinese-noodles-thai-cuisine-rice-noodles-papaya-salad-5b5e369b5126a4.5093244615329010193324.jpg",
+      "price": "23,50",
+      "description": "Os melhores sabores da Tailândia combinados na melhor massa da casa.",
+      "available": true,
+      "id": 6
     }
   ]
 }
